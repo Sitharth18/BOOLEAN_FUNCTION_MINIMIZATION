@@ -55,6 +55,10 @@ endmodule
 **TRUTHTABLE**
 
 
+![image](https://github.com/user-attachments/assets/0d9267d8-278c-49db-a9d2-7773b72b1066)
+
+
+![image](https://github.com/user-attachments/assets/3dc3d682-9cc8-4779-a271-a91c9e128cff)
 
 
 
