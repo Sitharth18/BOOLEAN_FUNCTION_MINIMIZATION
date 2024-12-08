@@ -69,7 +69,8 @@ endmodule
 **RTL**
 
 
-![image](https://github.com/user-attachments/assets/17054941-1bd3-407b-922d-06a691557400)
+![image](https://github.com/user-attachments/assets/9299554c-9ddd-4749-a58a-c674ac489a4e)
+
 
 
 **Result:**
